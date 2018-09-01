@@ -1,0 +1,51 @@
+#site{
+    background: white;
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    grid-template-rows: repeat(3,100px);
+
+}
+
+#part1{
+    color: white;
+    background: black;
+}
+
+#part2{
+    background: blue;
+
+
+}
+
+#part3{
+    background: red;
+
+}
+
+#part4{background: green;
+
+}
+
+#part5{
+    background: gray;
+
+}
+
+#part6{
+    background: yellow;
+
+}
+
+#part7{background: pink;
+
+}
+
+#part8{
+    background: brown;
+
+}
+
+#part9{
+    background: darkgoldenrod;
+
+}
